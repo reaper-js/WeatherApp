@@ -19,9 +19,10 @@
 
 .main-content {
     align-items: center;
+    text-align: center;
     color: rgb(255, 255, 255);
     font-family: arial;
-    margin: 0 auto;
+    margin: auto;
     margin-top: 3rem;
     padding-bottom: 4rem;
     padding-right: 6rem;
